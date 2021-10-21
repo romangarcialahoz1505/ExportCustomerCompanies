@@ -1,0 +1,25 @@
+{
+  "id": "e763b119-9dcc-451b-bd42-cd9bff70bbdb",
+  "name": "ExportCustomerCompany",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 54350,
+      "to": 54370
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "3.0"
+}
